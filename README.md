@@ -1,6 +1,8 @@
 Differentially Private Linear Regression
 ========================================
 
+Paper: [Differentially Private Simple Linear Regression](https://arxiv.org/abs/2007.05157)
+
 This repository contains algorithms for performing differentially private
 simple linear regression. We also provide an example usage of the main algorithms.
 
